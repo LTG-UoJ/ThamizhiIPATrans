@@ -10,7 +10,7 @@
 ---
 
 ## Installation
-
+```bash
 git clone https://github.com/LTG-UoJ/ThamizhiIPATrans.git
 cd ThamizhiIPATrans
 pip install streamlit
