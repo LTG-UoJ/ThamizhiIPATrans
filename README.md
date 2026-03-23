@@ -24,7 +24,7 @@ The API is located in the `API/` folder.
 ```bash
 cd API
 uvicorn app:app --reload
-``````
+
 
 Example POST Request
 Endpoint: /convert
@@ -40,5 +40,6 @@ Response Example:
     "ipa_transcription": "ɛnbɨ",
     "dialect": "Jaffna Sri Lankan"
 }
+``````
 ## Cite (ACL):
 Ahrane Mahaganapathy, Sumirtha Karunakaran, Kavitha Navakulan, and Kengatharaiyer Sarveswaran. 2026. Bridging Dialectal Variation: A Phonetic Transcription Tool for Tamil. In Proceedings of the 13th Workshop on NLP for Similar Languages, Varieties and Dialects, pages 234–241, Rabat, Morocco. Association for Computational Linguistics.
